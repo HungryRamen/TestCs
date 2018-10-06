@@ -1,0 +1,7 @@
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\bin\Debug\TestCs.exe.config
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\bin\Debug\TestCs.exe
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\bin\Debug\TestCs.pdb
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\obj\Debug\TestCs.csprojAssemblyReference.cache
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\obj\Debug\TestCs.csproj.CoreCompileInputs.cache
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\obj\Debug\TestCs.exe
+C:\Users\matiy\Desktop\GitHub\TestCs\TestCs\obj\Debug\TestCs.pdb
